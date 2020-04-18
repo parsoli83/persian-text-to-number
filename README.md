@@ -8,4 +8,4 @@ $pip3 install numpy
 
 USAGE:
 
-you give it a text containing numeric words and the it prints the number
+you give it a text containing numeric words and then it prints the number
